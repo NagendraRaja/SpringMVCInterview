@@ -10,8 +10,6 @@ public class EmployeeController {
 
 	@RequestMapping(value="/test",method=RequestMethod.POST)
 	public ModelAndView Test() {
-		
-		
 		return new ModelAndView("test");
 	}
 	

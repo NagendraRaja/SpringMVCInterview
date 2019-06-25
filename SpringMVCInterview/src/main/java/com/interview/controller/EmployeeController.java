@@ -11,6 +11,7 @@ public class EmployeeController {
 	@RequestMapping(value="/test",method=RequestMethod.POST)
 	public ModelAndView Test() {
 		
+		System.out.println("nag");
 		System.out.println("");
 		return new ModelAndView("test");
 	}

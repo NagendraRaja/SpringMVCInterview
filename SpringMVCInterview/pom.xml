@@ -72,6 +72,6 @@
     <finalName>SpringMVCInterview</finalName>
   </build>
   <properties>
-  	<springframework.version>4.3.7.RELEASE</springframework.version>
+  	<springframework.version>5.3.19</springframework.version>
   </properties>
 </project>
